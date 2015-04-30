@@ -15,5 +15,5 @@ This is a list of resources for practicing and honing your programming skills. T
 * [Talent Buddy](http://www.talentbuddy.co/)
 * [CryptoPals](http://cryptopals.com/)
 * [Exercism](http://exercism.io)
-* [Starfighter](http://www.starfighters.io/) (thanks [Toby Osbourn](http://tosbourn.com/) for this link)
+* [Starfighter](http://www.starfighters.io/)
 * [kata gem](https://github.com/wbailey/kata)
